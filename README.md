@@ -3,7 +3,7 @@
 AnsiLife is a Simple Unix terminal [Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 viewer written in Python that utilizes ansi escape sequences to render the generations into the terminal.
 
-![Logo](Images/gameplay.mkv)
+![Logo](Images/gameplay.gif)
 
 ## Features
 
@@ -19,7 +19,7 @@ viewer written in Python that utilizes ansi escape sequences to render the gener
 
 | Glider 		       | Blinker 			| Pulsar 		       |
 | :---:  		       | :---:    			| :---: 		       |
-| ![glider](Images/glider.mkv) | ![blinker](Images/blinker.mkv) | ![pulsar](Images/pulsar.mkv) |
+| ![glider](Images/glider.gif) | ![blinker](Images/blinker.gif) | ![pulsar](Images/pulsar.gif) |
 
 ## Requirements
 
@@ -29,7 +29,7 @@ viewer written in Python that utilizes ansi escape sequences to render the gener
 - [Pillow](https://github.com/python-pillow/Pillow)
 
 # Gosper glider gun in dark mode
-![ggg](Images/gosper-glider-gun.mkv)
+![ggg](Images/gosper-glider-gun.gif)
 
 ## Arguments
 -  `-h,  --help            → show this help message and exit`
