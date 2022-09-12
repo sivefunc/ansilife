@@ -13,7 +13,7 @@ viewer written in Python that utilizes ansi escape sequences to render the gener
 - GIF recorder (every generation will be recorded as a gif)
 - Generate random patterns
 - Change pattern size
-- Choose delay betweenn generation
+- Choose delay between generation
 
 # Patterns
 
